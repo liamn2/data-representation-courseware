@@ -1,0 +1,31 @@
+<!--Student Name: Liam Nutley-->
+<!--Student ID: G00326421-->
+<!--Data Representation Assignment 1-->
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!--Library tag as root node for child nodes Cookery and Technical books respectively-->
+<library>
+<!--Technical Books with respective books-->
+<technicalbooks>
+<book isbn-13="978-0131774292" isbn-10="0131774298">
+<title>Python Programming</title>
+<author>Peter van der Linden</author>
+</book>
+<book>
+<book isbn-13="978-0131774293" isbn-10="0131774299">
+<title>Java Programming</title>
+<author>Michael Oracle</author>
+</book>
+</technicalbooks>
+<!--Cookery Books with respective books-->
+<cookerybooks>
+<book>
+<book isbn-13="978-0131774294" isbn-10="0131774290">
+<title>Lovely Cakes</title>
+<author>Baker Man</author></book>
+<book>
+<book isbn-13="978-0131774295" isbn-10="0131774291">
+<title>10 Minute Meals</title>
+<author>P.O, Tato </author>
+</book>
+</cookerybooks>
+</library>
